@@ -1,4 +1,4 @@
-Please provide some context into why you are interested in the location you listed above? *
+Please provide some context into why you are interested in the location you listed above. *
 
 [>]"I am deeply interested in the location I listed above because it offers a unique blend of professional opportunities, personal growth, and alignment with my long-term goals.
 
