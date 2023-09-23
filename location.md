@@ -12,7 +12,7 @@ Moreover, [City/Region Name] holds a special place in my heart due to [mention a
 
 In summary, my interest in the location I listed above stems from a combination of professional opportunities, alignment with my career goals, personal affinity, and meaningful connections. I am excited about the prospect of contributing to the community and gaining invaluable experiences during my internship here."
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 [Q2] Please indicate your annual compensation expectations, including base and bonus.
