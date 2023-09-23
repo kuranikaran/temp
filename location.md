@@ -1,4 +1,4 @@
-Q1 Please provide some context into why you are interested in the location you listed above. *
+[Q1] Please provide some context into why you are interested in the location you listed above. *
 
 A1 "I am deeply interested in the location I listed above because it offers a unique blend of professional opportunities, personal growth, and alignment with my long-term goals.
 
@@ -15,7 +15,7 @@ In summary, my interest in the location I listed above stems from a combination 
 
 
 
-Q2 Please indicate your annual compensation expectations, including base and bonus.
+[Q2] Please indicate your annual compensation expectations, including base and bonus.
 
 A2 Regarding compensation for the internship opportunity, I appreciate your consideration. As a recent graduate seeking valuable practical experience, my primary focus is on the learning and professional growth opportunities that this internship can offer. Therefore, I am flexible and open to discussing compensation, understanding that internships often come with varying structures.
 
